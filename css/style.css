@@ -10,7 +10,7 @@
   height: 600px;
   padding: 2rem;
   text-align: center;
-  color: #658cd3;
+  color: white;
   margin: 0 auto;
 }
 
@@ -29,10 +29,6 @@
 
 .card:focus {
   outline-style: solid;
-}
-
-.nav {
-  background-color: aqua;
 }
 
 /*# sourceMappingURL=style.css.map */
